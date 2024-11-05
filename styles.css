@@ -1,4 +1,27 @@
 h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: red;
+    text-align: center;
 }
+
+.menuh2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.menuh3 {
+    font-family: Imact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.menup {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    color: black;
+    text-align: center;
+}
+
+
+
 
