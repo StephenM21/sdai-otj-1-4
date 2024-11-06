@@ -1,18 +1,37 @@
+body {
+    background-color: lightblue;
+}
+
 h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: red;
+    color: darkblue;
     text-align: center;
+}
+
+h2 {
+    font-family: Imact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: peachpuff;
+}
+
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    color: black;
+}
+
+.navbar {
+    font-family: Imact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
 }
 
 .menuh2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: black;
+    color: peachpuff;
     text-align: center;
 }
 
 .menuh3 {
     font-family: Imact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: black;
+    color: whitesmoke;
     text-align: center;
 }
 
@@ -22,6 +41,10 @@ h1 {
     text-align: center;
 }
 
+.adress {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkblue;
+}
 
 
 
