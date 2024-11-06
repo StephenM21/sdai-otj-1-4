@@ -6,15 +6,18 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: darkblue;
     text-align: center;
+    font-size: 100px;
 }
 
 h2 {
     font-family: Imact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: peachpuff;
+    padding-top: 3%;
+    padding-bottom: 1%;
 }
 
 p {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:Franklin Gothic Medium', 'Arial Narrow', Arial, sans-s'erif
     color: black;
 }
 
@@ -27,6 +30,8 @@ p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: peachpuff;
     text-align: center;
+    padding-top: 3%;
+    font-size: 85px;
 }
 
 .menuh3 {
@@ -46,5 +51,9 @@ p {
     color: darkblue;
 }
 
-
+.aboutus {
+    font-family:Franklin Gothic Medium', 'Arial Narrow', Arial, sans-s'erif
+    color: black;
+    line-height: 250%;
+}
 
